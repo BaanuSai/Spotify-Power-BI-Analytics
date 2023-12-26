@@ -1,16 +1,33 @@
 # Spotify-Power-BI-Analytics
-Power BI project using Spotify data, featuring ChatGPT integration, custom visuals, HTML, and Python scripting for a complete data analytics and visualization showcase.
 
-Advanced Power BI Dashboard with ChatGPT and Custom Visuals
+## Overview
+This Power BI project utilizes Spotify data to create an advanced, interactive music data dashboard. It features integration with ChatGPT, custom visuals, HTML, and Python scripting to deliver a comprehensive data analytics and visualization showcase.
 
-This project builds an interactive music data dashboard using Power BI, ChatGPT, and custom visuals.
+### Advanced Power BI Dashboard with ChatGPT and Custom Visuals
+The dashboard provides in-depth insights into music data, enhanced by the capabilities of ChatGPT and visually appealing custom graphics. This project is ideal for those looking to explore advanced data visualization techniques in Power BI.
 
-Key steps:
+### Key Steps
+- **Data Preparation**: Download Spotify data and enrich it with album cover URLs using ChatGPT.
+- **Design**: Create a captivating background image in PowerPoint.
+- **Visualization**: Develop and refine custom visuals in Power BI for a comprehensive and informative display.
 
-Download Spotify data and enrich it with album cover URLs using ChatGPT.
-Design a captivating background image in PowerPoint.
-Create and refine visuals in Power BI for an informative display.
+## Requirements
+- **Software**: Power BI Desktop, Python.
+- **Knowledge**: Basic understanding of Power BI and Python scripting.
+- **Data Source**: "Most Streamed Spotify Songs of 2023" from Kaggle.
 
-Requirements:
-Power BI Desktop, Python, basic understanding of Power BI and Python.
-Data: "Most Streamed Spotify Songs of 2023" from Kaggle.
+## Resources
+- **Spotify Data**:
+  - [Most Streamed Spotify Songs of 2023 - Kaggle Dataset](https://www.kaggle.com/datasets/nelgi...)
+
+- **Development Tools**:
+  - [Spotify Developer App](https://developer.spotify.com/)
+  - [Download Python](https://www.python.org/downloads/)
+
+- **Visuals and Code References**:
+  - [David's Deneb Showcase - GitHub](https://github.com/PBI-David/Deneb-Sh...)
+  - [Unit Chart Code - Stack Overflow](https://stackoverflow.com/questions/7...)
+  - [Heatmap Code - PowerBI-tips on GitHub](https://github.com/PowerBI-tips/Deneb...)
+
+- **Design Tools**:
+  - [Color Palette Inspiration](https://www.color-hex.com/color-palet...)
