@@ -4,12 +4,12 @@
 This Power BI project utilizes Spotify data to create an advanced, interactive music data dashboard. It features integration with ChatGPT, custom visuals, HTML, and Python scripting to deliver a comprehensive data analytics and visualization showcase.
 
 ### Advanced Power BI Dashboard with ChatGPT and Custom Visuals
-The dashboard provides in-depth insights into music data, enhanced by the capabilities of ChatGPT and visually appealing custom graphics. This project is ideal for those looking to explore advanced data visualization techniques in Power BI.
+The dashboard provides in-depth insights into music data, enhanced by the capabilities of ChatGPT and visually appealing custom graphics. It gives an in-depth knowledge advanced data visualization techniques in Power BI.
 
 ### Key Steps
-- **Data Preparation**: Download Spotify data and enrich it with album cover URLs using ChatGPT.
-- **Design**: Create a captivating background image in PowerPoint.
-- **Visualization**: Develop and refine custom visuals in Power BI for a comprehensive and informative display.
+- **Data Preparation**: Downloaded Spotify data and enrich it with album cover URLs using ChatGPT.
+- **Design**: Created a captivating background image in PowerPoint.
+- **Visualization**: Developed and refine custom visuals in Power BI for a comprehensive and informative display.
 
 ## Requirements
 - **Software**: Power BI Desktop, Python.
