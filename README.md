@@ -5,7 +5,7 @@ Advanced Power BI Dashboard with ChatGPT and Custom Visuals
 
 This project builds an interactive music data dashboard using Power BI, ChatGPT, and custom visuals.
 
-Key steps:
+**Key steps:
 
 Download Spotify data and enrich it with album cover URLs using ChatGPT.
 Design a captivating background image in PowerPoint.
